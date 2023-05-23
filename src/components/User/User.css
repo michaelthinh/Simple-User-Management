@@ -1,0 +1,21 @@
+.user{
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.user + .user{
+    margin-top:20px;
+}
+
+.user__control{
+    height: 25px;
+    background-color: #f00;
+    border-radius: 5px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    cursor: pointer;
+}

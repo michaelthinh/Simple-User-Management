@@ -1,3 +1,9 @@
+.error-message{
+  text-align: center;
+  color:white;
+  font-size: x-large;
+}
+
 .App {
   text-align: center;
 }
